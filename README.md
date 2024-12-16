@@ -49,7 +49,7 @@ Class - Performance class of the student (categorical: Low, Medium, High) (targe
 
 The primary objective is to develop a Logistic Regression model to classify student performance into one of the three classes (Low, Medium, High) and identify the key factors influencing these classifications.
 
-**Project Steps**
+#### **Project Steps**
 
 **Data Exploration**
 
